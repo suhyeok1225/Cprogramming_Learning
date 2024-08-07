@@ -1,0 +1,3 @@
+﻿  program3_2.c
+C:\Users\USER\Desktop\언어 공부\c언어공부\day05\day05\program3_2.c(4,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  day05.vcxproj -> C:\Users\USER\Desktop\언어 공부\c언어공부\day05\x64\Debug\day05.exe

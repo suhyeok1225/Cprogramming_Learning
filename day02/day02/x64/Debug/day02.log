@@ -1,0 +1,5 @@
+﻿  program2_2.cpp
+C:\Users\USER\Desktop\언어 공부\c언어공부\day02\day02\program2_2.cpp(2,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\USER\Desktop\언어 공부\c언어공부\day02\day02\program2_2.cpp(5,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\Desktop\언어 공부\c언어공부\day02\day02\program2_2.cpp(7,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  day02.vcxproj -> C:\Users\USER\Desktop\언어 공부\c언어공부\day02\x64\Debug\day02.exe

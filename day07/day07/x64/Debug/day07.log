@@ -1,0 +1,4 @@
+﻿  program3_8.c
+C:\Users\USER\Desktop\언어 공부\c언어공부\day07\day07\program3_8.c(6,6): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\Desktop\언어 공부\c언어공부\day07\day07\program3_8.c(17,2): warning C4013: 'putch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  day07.vcxproj -> C:\Users\USER\Desktop\언어 공부\c언어공부\day07\x64\Debug\day07.exe
